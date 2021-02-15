@@ -1,0 +1,1 @@
+# IDfy-OCR-solution
